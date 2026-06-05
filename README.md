@@ -1,4 +1,4 @@
-# 🤖 NovaMind AI ChatBot
+                                                                                    # 🤖 NovaMind AI ChatBot
 
 <div align="center">
 
@@ -215,24 +215,7 @@ http://localhost:7860
 - Multi-Model Support
 - Image Understanding
 
----
-
-## 👨‍💻 Author
-
-### Chaitanya Uddhav Jadhav
-
-Computer Engineering Student | Full Stack Developer | AI Enthusiast
-
-Skills:
-- Python
-- Flask
-- React
-- Java
-- MySQL
-- Artificial Intelligence
-- Machine Learning
-- Web Development
-
+ 
 ---
 
 ## ⭐ Support
