@@ -72,24 +72,19 @@ https://huggingface.co/spaces/Chaitanya182004/NovaMindAiChatBot
 
 ## 🏗️ System Architecture
 
-```text
-User Interface
-       │
+## 🏗️ System Architecture
+
+<p align="center">
+  <img src="assets/architecture.png" alt="NovaMind AI ChatBot Architecture" width="100%">
+</p>
+
+<p align="center">
+  <em>
+  High-Level Architecture of NovaMind AI ChatBot
+  </em>
+</p> 
        ▼
-Frontend (HTML + CSS + JavaScript)
-       │
-       ▼
-Flask Backend API
-       │
-       ▼
-Transformers Pipeline
-       │
-       ▼
-Qwen2.5-1.5B-Instruct
-       │
-       ▼
-Generated Response
-```
+ 
 
 ---
 
